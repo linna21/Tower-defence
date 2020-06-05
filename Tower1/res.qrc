@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>window1.jpg</file>
+        <file>button1.png</file>
+        <file>mainscreen.jpeg</file>
+        <file>returnbtn.png</file>
+    </qresource>
+</RCC>
